@@ -1,0 +1,29 @@
+
+#h1-1{
+  text-align:center;
+  background-color:black;
+  color: white;
+  border:2px solid white}
+body {
+  background-color: lightgray;
+}
+a:visited {
+  color: black;
+ }
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+
